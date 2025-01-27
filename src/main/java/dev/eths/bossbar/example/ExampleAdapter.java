@@ -12,15 +12,14 @@ public class ExampleAdapter extends BossBarAdapter {
 
     @Override
     public void tick() {
-        health--;
-        if (health <= 0) {
+        if (--health <= 0)
             health = 100;
-        }
     }
 
     @Override
     public String getTitle(Player player) {
-        return ChatColor.translateAlternateColorCodes('&', ("&" + Math.floor(Math.random() * 10)) + UUID.randomUUID().toString());
+        return ChatColor.translateAlternateColorCodes('&',
+                ("&" + Math.floor(Math.random() * 10)) + UUID.randomUUID().toString());
     }
 
     @Override
