@@ -1,0 +1,5 @@
+name: legacy-bossbar-example
+main: dev.eths.bossbar.LegacyBossBarPlugin
+description: Example plugin for LegacyBossBar
+authors: [Eths]
+version: 1.0
