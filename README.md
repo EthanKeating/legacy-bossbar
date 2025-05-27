@@ -1,6 +1,6 @@
 # LegacyBossbar
 
-LegacyBossbar is a powerful 1.8 BossBar API designed to display a BossBar in Minecraft clients by sending fake entity packets, Legacy-BossBar allows developers to bypass current 1.8.8 BossBar restrictions and use the the feature flawlessy to display information such as statistics, player roles, or game state data
+LegacyBossbar is a powerful, thread-safe 1.8 BossBar API designed to display a BossBar in Minecraft clients by sending fake entity packets, Legacy-BossBar allows developers to bypass current 1.8.8 BossBar restrictions and use the the feature flawlessy to display information
 
 ## Features
 - **Broad Compatibility**: Built for Spigot 1.8.8, Works seamlessly with Minecraft clients below 1.8
