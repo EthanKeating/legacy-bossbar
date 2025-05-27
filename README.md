@@ -9,7 +9,7 @@ LegacyBossbar is a powerful 1.8 BossBar API designed to display a BossBar in Min
 - **Developer-Friendly**: Easy-to-use API for integrating with existing plugins or projects.
 ---
 
-[![ezgif-3-e6479d8a4e.gif](https://i.postimg.cc/L5x3shmV/ezgif-3-e6479d8a4e.gif)]([https://postimg.cc/fS092zt3](https://i.postimg.cc/L5x3shmV/ezgif-3-e6479d8a4e.gif))
+![image](https://github.com/user-attachments/assets/1c9fa838-ccbe-48f6-8751-945a2dc87edf)
 
 ## Installation
 1. Download the latest version of the Legacy-BossBar jar from the [Releases](#).
