@@ -57,12 +57,12 @@ public class ExampleAdapter extends BossBarAdapter {
 }
 ```
 
-Set a player's BossBar Adapter
+Set a player's BossBar Adapter (Using your instance of LegacyBossBar)
 ```java
   Player player = event.getPlayer();
   BossBarAdapter bossBarAdapter = new ExampleAdapter();
 
-  legacyTab.setAdapter(player, bossBarAdapter);
+  legacyBossBar.setAdapter(player, bossBarAdapter);
 ```
 
 ---
